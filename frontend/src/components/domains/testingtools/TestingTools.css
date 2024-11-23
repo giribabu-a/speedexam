@@ -1,0 +1,27 @@
+.cards {
+    width: 100%;
+    height: 150px;
+    border-radius: 5px;
+    padding: 10px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.exams_card{
+    background-color: blueviolet;
+}
+.questions_card {
+    background-color: burlywood;
+}
+.students_card {
+    background-color: cadetblue;
+}
+.statistics_card {
+    background-color: darkkhaki;
+}
+
+.card_links {
+    text-decoration: none;
+    color: black;
+}
